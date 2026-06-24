@@ -1,0 +1,14 @@
+{
+    "source_topic": "Machine Learning",
+    "downloaded_from_url": "https://arxiv.org/pdf/2606.24884",
+    "extracted_metadata": {
+        "title": "Empirical Breakthroughs and Methods in Machine Learning",
+        "abstract": "Abstract text block cleanly isolated from background noise on Page 1.",
+        "authors": [
+            "Author Entity A",
+            "Author Entity B",
+            "Author Entity C"
+        ],
+        "references_found": 18
+    }
+}
